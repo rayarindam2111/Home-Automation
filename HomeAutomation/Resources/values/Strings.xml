@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">HomeAutomation</string>
+  <string name="serverURL">http://www.iemculturalfest.com/homeA/</string>
+  <string name="doorInputSerial">doorcheck</string>
+  <string name="doorOpenSerial">dooropen</string>
+</resources>

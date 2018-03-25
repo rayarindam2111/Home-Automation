@@ -1,0 +1,5 @@
+C:\Users\rupa\Documents\Visual Studio 2015\Projects\deviceHandler\deviceHandler\bin\Release\deviceHandler.exe.config
+C:\Users\rupa\Documents\Visual Studio 2015\Projects\deviceHandler\deviceHandler\bin\Release\deviceHandler.exe
+C:\Users\rupa\Documents\Visual Studio 2015\Projects\deviceHandler\deviceHandler\bin\Release\deviceHandler.pdb
+C:\Users\rupa\Documents\Visual Studio 2015\Projects\deviceHandler\deviceHandler\obj\Release\deviceHandler.exe
+C:\Users\rupa\Documents\Visual Studio 2015\Projects\deviceHandler\deviceHandler\obj\Release\deviceHandler.pdb

@@ -1,0 +1,6 @@
+C:\Users\rupa\Documents\Visual Studio 2015\Projects\deviceHandler\deviceHandler\bin\Debug\deviceHandler.exe.config
+C:\Users\rupa\Documents\Visual Studio 2015\Projects\deviceHandler\deviceHandler\bin\Debug\deviceHandler.exe
+C:\Users\rupa\Documents\Visual Studio 2015\Projects\deviceHandler\deviceHandler\bin\Debug\deviceHandler.pdb
+C:\Users\rupa\Documents\Visual Studio 2015\Projects\deviceHandler\deviceHandler\obj\Debug\deviceHandler.exe
+C:\Users\rupa\Documents\Visual Studio 2015\Projects\deviceHandler\deviceHandler\obj\Debug\deviceHandler.pdb
+C:\Users\rupa\Documents\Visual Studio 2015\Projects\deviceHandler\deviceHandler\obj\Debug\deviceHandler.csprojResolveAssemblyReference.cache
